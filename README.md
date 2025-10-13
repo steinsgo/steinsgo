@@ -39,14 +39,18 @@
 ---
 
 ### 🧠 Skill Readout
-```text
-Tensor Artistry (PyTorch) ████████████▒ 92%
-Vision Transformers      █████████▒▒▒ 80%
-Diffusion Models         ████████▒▒▒▒ 65%
-Classical CV Tricks      ████████▒▒▒▒ 60%
-Edge AI Deployment       ██████▒▒▒▒▒▒ 45%
-Realtime Graphics        █████▒▒▒▒▒▒▒ 35%
+```mermaid
+%% Update the values to match your own strengths.
+pie showData title "Modeling & Vision Toolkit"
+  "Tensor Artistry (PyTorch)" : 92
+  "Vision Transformers" : 80
+  "Diffusion Models" : 65
+  "Classical CV Tricks" : 60
+  "Edge AI Deployment" : 45
+  "Realtime Graphics" : 35
 ```
+
+<sub>Prefer bars? Swap this block back to text or a custom SVG badge wall. You do you.</sub>
 
 | Research Vector | Current Quest | Status |
 | --- | --- | --- |
