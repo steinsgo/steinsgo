@@ -22,7 +22,7 @@
   <summary><strong>🎖️ Hidden Lore</strong></summary>
 
   * Former `TODO: Degree` candidate @ [`TODO: Previous School`](https://example.edu).
-  * Semi-pro [CS:GO](https://www.faceit.com/) fragger who still speed-runs aim maps between experiments.
+  * Semi-pro tactical FPS fragger who still speed-runs aim maps between experiments.
   * Parkour enthusiast warming up by vaulting over convolutional layers.
 </details>
 
@@ -30,10 +30,10 @@
 
 ### 📊 Telemetry Dashboard
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soooda&show_icons=true&count_private=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soooda&layout=compact&theme=radical" alt="Top languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=soooda&theme=radical&margin-w=15&margin-h=15&column=5" alt="Profile trophies" />
-  <img src="https://streak-stats.demolab.com/?user=soooda&theme=radical" alt="Contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-HANDLE&show_icons=true&count_private=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-HANDLE&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-HANDLE&theme=radical&margin-w=15&margin-h=15&column=5" alt="Profile trophies" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-HANDLE&theme=radical" alt="Contribution streak" />
 </p>
 
 ---
@@ -84,10 +84,10 @@ Realtime Graphics        █████▒▒▒▒▒▒▒ 35%
 
 ### 📡 Signal Beacons
 <p align="center">
-  <a href="https://www.linkedin.com/in/liang-kong-31b276165/"><img src="https://img.icons8.com/nolan/32/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://hilbertkong.me"><img src="https://img.icons8.com/nolan/32/chrome.png" alt="Website" /></a>
-  <a href="https://www.instagram.com/hilbert_kong/"><img src="https://img.icons8.com/nolan/32/instagram-new.png" alt="Instagram" /></a>
-  <a href="https://space.bilibili.com/13696479"><img src="https://img.icons8.com/nolan/32/video.png" alt="Bilibili" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.icons8.com/nolan/32/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://your-portfolio.example"><img src="https://img.icons8.com/nolan/32/chrome.png" alt="Website" /></a>
+  <a href="https://instagram.com/"><img src="https://img.icons8.com/nolan/32/instagram-new.png" alt="Instagram" /></a>
+  <a href="https://space.bilibili.com/"><img src="https://img.icons8.com/nolan/32/video.png" alt="Bilibili" /></a>
 </p>
 
 <p align="center">
@@ -100,13 +100,13 @@ Realtime Graphics        █████▒▒▒▒▒▒▒ 35%
   <summary><strong>🎮 Steam Playtime Leaderboard</strong></summary>
 
 ```text
-🔫 Counter-Strike 2                 🕘 8528 hrs 12 mins
-🎮 Monster Hunter: World            🕘  900 hrs 41 mins
-🍳 PUBG: BATTLEGROUNDS              🕘  276 hrs 7 mins
-🦾 Cyberpunk 2077                   🕘  132 hrs 3 mins
-🎮 ELDEN RING                       🕘  123 hrs 42 mins
+🔫 Counter-Strike 2                 🕘 0000 hrs 00 mins
+🎮 Monster Hunter: World            🕘  000 hrs 00 mins
+🍳 PUBG: BATTLEGROUNDS              🕘  000 hrs 00 mins
+🦾 Cyberpunk 2077                   🕘  000 hrs 00 mins
+🎮 ELDEN RING                       🕘  000 hrs 00 mins
 ```
-<sub>Powered by https://github.com/YouEclipse/steam-box</sub>
+<sub>Update with your own stats via https://github.com/YouEclipse/steam-box</sub>
 </details>
 
 ---
