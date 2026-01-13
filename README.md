@@ -54,16 +54,12 @@ pie showData title "Modeling & Vision Toolkit"
 
 ---
 
-### 🗃️ Papers, Notes & Academic Signals
-> Reserved runway for future triumphs — plug in your milestones below.
->
-> - `TODO: Paper Title @ Venue`
-> - `TODO: Preprint / DOI`
-> - `TODO: Thesis or Capstone`
+### 🗃️ Academic Signals
 
-- 🎓 `TODO: Current School / Lab`
-- 🧭 `TODO: Program timeline`
-- 🧑‍🤝‍🧑 `TODO: Advisor / Lab mates`
+
+- 🎓 `MUST Computer Vision Lab`
+- 🧭 `timeline：2024.9 - now`
+
 
 ---
 
@@ -83,4 +79,5 @@ pie showData title "Modeling & Vision Toolkit"
 
   <i>If you're good, you'll tell everyone.<br><strong>If you're great, they'll tell you.</strong></i>
 </p>
+
 
