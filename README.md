@@ -4,7 +4,7 @@
 
 **Computer Vision · Reliable Visual Learning · Embodied Perception**
 
-M.S. student, [Waseda University — Graduate School of Information, Production and Systems](https://www.waseda.jp/fsci/gips/en/)  
+Incoming master's student, [Waseda University — Graduate School of Information, Production and Systems](https://www.waseda.jp/fsci/gips/en/)  
 September 2026 intake
 
 B.Sc. in Computer Science, [Macau University of Science and Technology](https://www.must.edu.mo/)
