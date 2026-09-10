@@ -1,83 +1,51 @@
-<details open>
-  <summary><h1 align="center">o(>.<)o Heyo, I'm <code>steinsgo</code>!</h1></summary>
-  <p align="center">"If pixels can dream, I want to be the one who hands them the story."</p>
-</details>
+<div align="center">
+
+# Benhuang Liu
+
+**Computer Vision · Reliable Visual Learning · Embodied Perception**
+
+M.S. student, [Waseda University — Graduate School of Information, Production and Systems](https://www.waseda.jp/fsci/gips/en/)  
+September 2026 intake
+
+B.Sc. in Computer Science, [Macau University of Science and Technology](https://www.must.edu.mo/)
+
+</div>
+
+## Research
+
+I am interested in how vision systems behave when the evidence is imperfect: when an image is 4K and degraded, an RGB-D match is ambiguous, or a robot should abstain instead of acting on a weak prediction.
+
+My undergraduate work centered on ultra-high-definition image restoration. More recently, I have been exploring confidence-aware RGB-D correspondence and vision-guided robotic manipulation. My current interests include **image restoration and generative vision**, **RGB-D and 3D perception**, and **vision-language models for embodied systems**.
+
+## Selected projects
+
+### [GatedResidual — confidence-aware output blending for UHD restoration](https://github.com/steinsgo/Resblock-For-UHDprocesser)
+
+`Final-year project` · `PyTorch` · `4K image restoration`
+
+A lightweight spatial gate for degradation-conditioned all-in-one restoration. It blends the network output with the original input when the selected restoration route is unreliable. The module adds **11,107 parameters (0.6% overhead)**. In deliberate misclassification stress tests, it recovered **10.13 dB on average** over the ungated wrong-route output; the nominal-quality trade-off is reported alongside the robustness result.
+
+### [Confidence-aware RGB-D correspondence for unseen-object pose](https://github.com/steinsgo/rgbd-confidence-pose/tree/agent/readme-quality-gate)
+
+`Independent study — ongoing` · `RealSense D435i` · `DINOv2 / SIFT` · `SE(3)`
+
+An end-to-end pipeline for RGB-D session validation, 2D-to-3D correspondence, confidence-aware RANSAC, and Kabsch refinement. A known-pose synthetic test reached **0.084° rotation error** and **1.6 mm translation error**. Real D435i recordings have been used for integrity and matching checks; independent real-pose ground truth remains the main open requirement.
+
+### [ConfMate — confidence-gated visual matching for robotic insertion](https://github.com/steinsgo/vlm-robot-color-sorting/tree/confmate-baseline)
+
+`Simulation study — ongoing` · `PyBullet` · `CLIP` · `Franka Panda`
+
+A reproducible peg-hole matching and manipulation prototype with multi-view Chamfer/CLIP baselines, confidence-based abstention, partial-observation evaluation, and a four-object Panda mission. The project keeps oracle control tests separate from actual visual matching results.
+
+## Other builds
+
+- [**DepthForce**](https://github.com/steinsgo/depthforce) — a CUDA particle-interaction prototype driven by depth motion, with a D435i input path and a 150k-particle synthetic mode running at 119–122 FPS on an RTX 3060 Laptop GPU.
+- [**Ancient Character OCR**](https://github.com/steinsgo/DanC) — a containerized full-page rubbing-image pipeline using YOLO11m for character detection and ResNet50 for glyph recognition.
+
+## Tools I use
+
+Python · PyTorch · OpenCV · DINOv2 · Transformers · ROS 2 · PyBullet · NVIDIA Warp/CUDA · Intel RealSense
 
 ---
 
-### 🌌 Who am I?
-* 📜 A **Computer Science voyager** currently charting a bachelor of Computer Science@ [Macau University Of Science And Technology](https://www.must.edu.mo/).
-* 🧪 A **computer-vision tinkerer** obsessed with:
-  * 🧼 Image restoration that scrubs away noise + time.
-  * 🔍 Super-resolution that persuades pixels to upscale their ambitions.
-  * 🎯 Object detection that never blinks.
-  * 🎞️ Video generation that conjures motion from silence.
-* 🎛️ A **sound addict** riffing on electric guitar, fusion, and modern jazz harmonies.
-* ☕ A **midnight brewer** whose espresso shots double as GAN fuel.
-
-> "I am just who I am, nothing more, nothing less... but always in high resolution." 😎
-
-
-
----
-
-### 📊 Telemetry Dashboard
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steinsgo&show_icons=true&count_private=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steinsgo&layout=compact&theme=radical" alt="Top languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=steinsgo&theme=radical&margin-w=15&margin-h=15&column=5" alt="Profile trophies" />
-  <img src="https://streak-stats.demolab.com/?user=steinsgo&theme=radical" alt="Contribution streak" />
-</p>
-
----
-
-### 🧠 Skill Readout
-```mermaid
-%% Update the values to match your own strengths.
-pie showData title "Modeling & Vision Toolkit"
-  "Tensor Artistry (PyTorch)" : 92
-  "Vision Transformers" : 80
-  "Diffusion Models" : 65
-  "Classical CV Tricks" : 60
-  "Edge AI Deployment" : 45
-  "Realtime Graphics" : 35
-```
-
-<sub>Prefer bars? Swap this block back to text or a custom SVG badge wall. You do you.</sub>
-
-| Research Vector | Current Quest | Status |
-| --- | --- | --- |
-| 🧬 Low-light restoration | Remixing datasets with generative priors. | `in flight` |
-| 🔁 Diffusion + SR fusion | Building cinematic upscaling loops. | `in the lab` |
-| 🧩 Promptable detection | Architecting open-set detection heads. | `mind mapping` |
-| 🎞️ Video imagination | Storyboarding temporally coherent dreams. | `whiteboarded` |
-
----
-
-### 🗃️ Academic Signals
-
-
-- 🎓 `MUST Computer Vision Lab`
-- 🧭 `timeline：2024.9 - now`
-
-
----
-
-### 🎶 Off-Stage Improvisations
-<details open>
-  <summary>What happens when the GPU cools down?</summary>
-
-  - ⚡ Plug in the **electric guitar**, chase odd-time signatures, and bend notes like Bézier curves.
-  - 🎷 Spin **modern jazz** vinyl while transcribing spicy voicings.
-  - 🎮 Queue up a game night — from Nintendo nostalgia to tactical FPS showdowns.
-  - 📸 Capture city neon on a lone mirrorless camera.
-</details>
-
----
-
-### 📡 Signal Beacons
-
-  <i>If you're good, you'll tell everyone.<br><strong>If you're great, they'll tell you.</strong></i>
-</p>
-
-
+<sub>Away from the GPU: electric guitar, fusion and modern jazz, games, and street photography.</sub>
